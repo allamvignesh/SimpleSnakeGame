@@ -1,3 +1,3 @@
 # SimpleSnakeGame
 
-A simple snake game made woth python and pygame.
+A simple snake game made with python and pygame.
